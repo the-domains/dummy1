@@ -1,0 +1,14 @@
+layout_spectrum: 0.1953405
+color:
+  saturation: 0.8136201
+  lightness: 0.05913978
+  brandStrength: 0.4641577
+  brandColors:
+    - '#FFFFFF'
+    - '#292830'
+    - '#A6A080'
+    - '#877D62'
+    - '#6D514D'
+  rhythmicContrast: 0.4587814
+typography_spectrum: 0.5179211
+name: Dummy1
